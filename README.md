@@ -1,0 +1,2 @@
+# Socky
+Decentralized torrenting site
